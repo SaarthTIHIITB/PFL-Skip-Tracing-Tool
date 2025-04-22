@@ -194,3 +194,5 @@ The results are good enough to begin with and can be improved upon. All the reso
 To access APIs and using access tokens from Meta, Google directly is tedious and doesn’t provide very reliable results.
 
 GitHub link for codes: https://github.com/SaarthTIHIITB/PFL-Skip-Tracing-Tool.git
+More info and research: https://docs.google.com/document/d/11q2E4N4BkfxtRMINN0NzKW_XP1aomlyWh-xBx5hU9XQ/edit?tab=t.0
+
